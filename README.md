@@ -1,5 +1,3 @@
-# 👨‍💻 Héctor Burgos
-
 **Ingeniero en Software | Desarrollador Web | Aprendiendo AWS & Python**  
 📍 Desde Chile | En búsqueda de oportunidades laborales y nuevos desafíos
 
