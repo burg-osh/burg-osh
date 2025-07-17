@@ -6,7 +6,7 @@
 ### 🚀 Sobre mí
 
 - 💻 Apasionado por la programación, la innovación y el desarrollo de soluciones eficientes.
-- 🧠 Actualmente aprendiendo **AWS**, **JavaScript moderno** y **Python avanzado**.
+- 🧠 Actualmente aprendiendo **AWS**, **Java** y **Python avanzado**.
 - 🛠️ Me gusta trabajar en proyectos que resuelven problemas reales.
 - 📚 Siempre abierto a aprender algo nuevo y colaborar en equipo.
 
@@ -16,4 +16,5 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
