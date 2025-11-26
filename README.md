@@ -1,69 +1,42 @@
-Offensive Security Trainee
+==========================================
+==   OFFENSIVE SECURITY PROFILE LOADED   ==
+==========================================
 
-🔻 Pentesting • Red Team • Ethical Hacking
-📍 Chile
+User: Héctor Burgos
+Role: Offensive Security Trainee
+Location: Chile
+Status: ACTIVE
 
+> Capabilities:
+  - Reconnaissance (active/passive)
+  - OSINT Acquisition
+  - Attack Surface Mapping
+  - Service Fingerprinting
+  - Exploitation (Web | Services)
+  - Privilege Escalation (basic)
+  - Post-Exploitation (initial)
 
----
+> Tools:
+  - Nmap | Burp Suite | Metasploit
+  - OWASP ZAP | Wireshark
+  - Gobuster | Dirsearch | Hydra | Medusa
 
-▌ Perfil
+> Systems / Code:
+  - Python (offensive scripting)
+  - Bash Automation
+  - Kali Linux / Ubuntu
+  - Git / GitHub
 
-Me especializo en seguridad ofensiva, enfocado en pentesting, reconocimiento y explotación.
-Trabajo con precisión, metodología y enfoque profesional.
-En formación hacia eJPT → OSCP.
+> Current Mission:
+  - Red Team Tactics
+  - Advanced Exploitation
+  - Offensive Automation
+  - eJPT → OSCP Path
 
+> Note:
+  Unauthorized access is unethical.
+  Authorized testing only.
 
----
-
-▌ Skills Técnicos
-
-🔍 Recon
-
-🟥 Enumeración activa/pasiva
-
-🟥 OSINT
-
-🟥 Mapeo & fingerprinting
-
-
-💥 Explotación
-
-🟥 Web vulns
-
-🟥 Servicios
-
-🟥 Escalada & post-explotación inicial
-
-
-🛠️ Ops Tools
-
-🟥 Nmap • Burp Suite • MSF
-
-🟥 ZAP • Wireshark
-
-🟥 Gobuster • Dirsearch
-
-🟥 Hydra / Medusa
-
-
-🖥️ Scripting / Sistemas
-
-🟥 Python
-
-🟥 Bash
-
-🟥 Kali / Ubuntu
-
-🟥 Git / GitHub
-
-
-
----
-
-▌ En Progreso
-
-🔴 Red Team Tactics
-
-🔴 Explotación avanzada
-
-🔴 Automatización ofensiva
+==========================================
+==         PROFILE READY FOR OPS         ==
+==========================================
