@@ -1,5 +1,3 @@
-==========================================
-==   OFFENSIVE SECURITY ===
 
 User: Héctor Burgos
 Role: Offensive Security Trainee
