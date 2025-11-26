@@ -1,39 +1,25 @@
+──────────  OFFENSIVE SECURITY PROFILE  ──────────  
 
-User: Héctor Burgos
-Role: Offensive Security Trainee
-Location: Chile
-Status: ACTIVE
+Name: Héctor Burgos  
+Role: Offensive Security Student | Junior Pentester  
+Domain: Red Team • Offensive Engineering • Ethical Operations  
+Location: Chile  
 
-> Capabilities:
-  - Reconnaissance (active/passive)
-  - OSINT Acquisition
-  - Attack Surface Mapping
-  - Service Fingerprinting
-  - Exploitation (Web | Services)
-  - Privilege Escalation (basic)
-  - Post-Exploitation (initial)
+[ CORE CAPABILITIES ]  
+• Recon & Intelligence: Enumeration | OSINT | Target Profiling | Surface Mapping  
+• Exploitation: Web & Network Vulns | Service Exploitation | PrivEsc | Lateral Movement  
+• Tooling Suite: Nmap | Burp Suite | Metasploit | ZAP | Wireshark | Custom Scripts  
+• Discovery & Force: Gobuster | Dirsearch | Hydra | Medusa  
+• Systems & Code: Python | Bash | Linux | Git | Automation  
 
-> Tools:
-  - Nmap | Burp Suite | Metasploit
-  - OWASP ZAP | Wireshark
-  - Gobuster | Dirsearch | Hydra | Medusa
+[ CURRENT MISSION ]  
+Building a solid offensive foundation → eJPT → OSCP  
+Developing discipline, precision and operational thinking.  
 
-> Systems / Code:
-  - Python (offensive scripting)
-  - Bash Automation
-  - Kali Linux / Ubuntu
-  - Git / GitHub
+[ OPERATIONAL DIRECTIVE ]  
+Act within authorization.  
+Think like an attacker.  
+Operate like a professional.  
+Maintain the silence of the underground.
 
-> Current Mission:
-  - Red Team Tactics
-  - Advanced Exploitation
-  - Offensive Automation
-  - eJPT → OSCP Path
-
-> Note:
-  Unauthorized access is unethical.
-  Authorized testing only.
-
-==========================================
-==         PROFILE READY FOR OPS         ==
-==========================================
+──────────  PROFILE ONLINE  ──────────
